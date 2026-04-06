@@ -3,5 +3,5 @@ This project gives out a very simple instruction on how to use cadence virtuoso 
 
 ## Project buiding phase
 First, we need to make a folder on our desktop, and enter Virtuoso, using the command as follow:
-
+<img src="images/1.png">
 

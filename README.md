@@ -29,13 +29,12 @@ If the analysis job succeeded, we will go to the next phase.
 ## Layout phase
 We first move into the schematic, choose "Launch->Layout XL" to create a layout. 
 
-When we get into the layout, use "Connectivity->Generate->All from source..." to upload.
+When we get into the layout, use "Connectivity->Generate->All from source..." to upload. Use "Shift+F" to convert layout format.
 <img src="images/8.png">
-
-Use "Shift+F" to convert layout format.
 <img src="images/9.png">
 
 Complete the connections in layout.
+
 <img src="images/10.png">
 
 ## DRC check phase

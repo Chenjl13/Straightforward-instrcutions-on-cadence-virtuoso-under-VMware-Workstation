@@ -6,3 +6,18 @@ First, we need to make a folder on our desktop, and enter Virtuoso, using the co
 <img src="images/1.png">
 
 Then, choose "File->New->Library" to create a new library. Take "inv" as example, we input the library name and chooose "Attach to an existing technology library", and we choose "smic18mmrf" as example.
+<img src="images/2.png">
+
+We now create a schematic for "inv", and finish the schematic drawing.
+<img src="images/3.png">
+<img src="images/4.png">
+
+We use "Check->Current Cellview" to check if there is a connection error in our schematic.
+
+If there is no errors in our schematic, using "Create->Cellview->From Cellview..." to create a symbol.
+<img src="images/5.png">
+
+
+
+
+

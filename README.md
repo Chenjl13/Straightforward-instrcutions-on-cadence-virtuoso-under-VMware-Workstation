@@ -33,7 +33,9 @@ If the analysis job succeeded, we will go to the next phase.
 We first move into the schematic, choose "Launch->Layout XL" to create a layout. 
 
 When we get into the layout, use "Connectivity->Generate->All from source..." to upload. Use "Shift+F" to convert layout format.
+
 <img src="images/8.png">
+
 <img src="images/9.png">
 
 Complete the connections in layout.
@@ -42,10 +44,12 @@ Complete the connections in layout.
 
 ## DRC check phase
 We use DRC to check. The layout is qualified if only "density" errors occur as follow:
+
 <img src="images/11.png">
 
 ## LVS check phase
 We use LVS to check. The layout is qualified if the laughing face appears.
+
 <img src="images/12.png">
 
 

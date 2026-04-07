@@ -1,5 +1,12 @@
 # Welcome to the lab, you will see many simple experiments and their specific instructions here!
 Choose the experiments that you expect to view:
+
 [AND](AND/readme.md)
 
-[here](./website.md)
+[NAND](NAND/readme.md)
+
+[OR](OR/readme.md)
+
+[NOR](NOR/readme.md)
+
+[INV](INV/readme.md)

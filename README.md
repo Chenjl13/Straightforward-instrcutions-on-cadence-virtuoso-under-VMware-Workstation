@@ -2,7 +2,7 @@
 This project gives out a very simple instruction on how to use cadence virtuoso for circuit design and layout drawing
 
 ## My lab
-There is a [lab](./lab.md) equipped with many simple experiments.
+There is a [lab](./lab/lab.md) equipped with many simple experiments.
 
 ## Project buiding phase
 First, we need to make a folder on our desktop, and enter Virtuoso, using the command as follow:

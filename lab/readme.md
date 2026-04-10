@@ -10,3 +10,5 @@ Choose the experiments that you expect to view:
 [NOR](NOR/readme.md)
 
 [INV](INV/readme.md)
+
+[Amplifier](Amplifier/readme.md)

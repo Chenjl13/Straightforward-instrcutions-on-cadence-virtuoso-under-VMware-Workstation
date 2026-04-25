@@ -1,5 +1,6 @@
 # Straightforward-instrcutions-on-cadence-virtuoso-under-VMware-Workstation
 This project gives out a very simple instruction on how to use cadence virtuoso for circuit design and layout drawing
+<img src="images/example.png">
 
 ## My lab
 There is a [lab](lab/readme.md) equipped with many simple experiments.

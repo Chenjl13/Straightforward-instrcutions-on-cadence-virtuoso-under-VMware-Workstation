@@ -25,7 +25,7 @@ We use "Check->Current Cellview" to check if there is a connection error in our 
 
 ## Symbol phase
 If there is no errors in our schematic, using "Create->Cellview->From Cellview..." to create a symbol.
-<img src="images/5.png">
+<img src="images/5_1.png">
 
 ## CDL and netlist generation phase
 Go back to the Virtuoso page, using "File->Export->CDL..." to generate CDL. Choosing inv_schematic and replacing "Output CDL Netlist File" as inv.cdl

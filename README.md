@@ -5,6 +5,9 @@ This project gives out a very simple instruction on how to use cadence virtuoso 
 ## My lab
 There is a [lab](lab/readme.md) equipped with many simple experiments.
 
+## Analog IC
+[Here](Analog_IC_Design/readme.md)  is analog ic design course
+
 ## Project buiding phase
 First, we need to make a folder on our desktop, and enter Virtuoso, using the command as follow:
 ```
